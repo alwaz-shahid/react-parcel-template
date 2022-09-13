@@ -1,4 +1,5 @@
 # react-parcel-template
+### Get going with minimal setup.
 
 
 <hr/>
@@ -6,17 +7,22 @@
 <h3 align="center">I'm a Full Stack developer, doing freelance.</h3>
 <hr/>
 <h4 align="left">
-This is an example of rect js with parcel bundler Parcel needs zero-config as comapred to a standard bunder (webpack). Easy to configure.
+This is an example of react js with parcel bundler. Parcel needs zero-config as compared to a standard bunder (webpack). Easy to configure.
 A quick start template so that you can focus more on your project.
 </h4>   
 . &copy; 2022
 
 ## Commands
 ```
-build: parcel build
 start: parcel
+build: parcel build
+
+npm run **command**
+or
+yarn **command**
 
 ```
+
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/alwaz-shahid/)
 
@@ -31,7 +37,7 @@ Connect with me on [Instagram](https://www.instagram.com/alwazdev)
 <hr/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alwaz-shahid" alt="alwaz-shahid" /><hr/></a> </p>
 
-- 🌱 I’m currently learning **Astro, Blockchainand and much more**
+- 🌱 I’m currently learning **Astro, Blockchain and and much more**
 
 - 💬 Ask me about **React js, Next js, node js, express js, Django, Fastapi, Next Auth, MongoDB, PostgreSql and blockchain (Solidity)**
 
