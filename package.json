@@ -1,0 +1,21 @@
+{
+  "name": "react-parcel-1",
+  "version": "1.0.0",
+  "source": "/public/index.html",
+  "scripts": {
+    "start": "parcel ",
+    "build": "parcel build "
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

@@ -1,0 +1,8 @@
+# git ignore for rEACTJS AND PARCEL 
+
+# dependencies
+node_modules
+.env
+dist
+.parcel-cache
+.cache
